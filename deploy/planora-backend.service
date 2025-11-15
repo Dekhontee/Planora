@@ -1,0 +1,15 @@
+[Unit]
+Description=Planora Backend (uvicorn)
+After=network.target
+
+[Service]
+User=www-data
+Group=www-data
+WorkingDirectory=/workspaces/Planora
+# Adjust ExecStart to point to your virtualenv Python/uvicorn bin
+ExecStart=/workspaces/Planora/.venv/bin/uvicorn backend.main:app --host 0.0.0.0 --port 8000
+Restart=on-failure
+RestartSec=5
+
+[Install]
+WantedBy=multi-user.target

@@ -1,1 +1,14 @@
 streamlit
+fastapi
+uvicorn[standard]
+pdfplumber
+PyPDF2
+python-multipart
+requests
+Pillow
+pytesseract
+pytest
+httpx
+reportlab
+easyocr
+cryptography

@@ -1,0 +1,15 @@
+[Unit]
+Description=Planora Frontend (Streamlit)
+After=network.target
+
+[Service]
+User=www-data
+Group=www-data
+WorkingDirectory=/workspaces/Planora
+# Adjust ExecStart to point to your virtualenv Python/streamlit bin
+ExecStart=/workspaces/Planora/.venv/bin/streamlit run /workspaces/Planora/streamlit_app.py --server.port=8501 --server.address=0.0.0.0
+Restart=on-failure
+RestartSec=5
+
+[Install]
+WantedBy=multi-user.target

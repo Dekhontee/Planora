@@ -1,0 +1,23 @@
+Chapter 1: Introduction to Chemistry
+This chapter covers the fundamentals of chemistry, including the scientific method, states of matter, and basic atomic structure. Students will learn about elements, atoms, molecules, and how they interact.
+
+Chapter 2: Atomic Structure and Bonding
+Explore the structure of atoms, electron configurations, and the periodic table. Understand ionic bonds, covalent bonds, and metallic bonds. Learn how bonding determines molecular properties.
+
+Chapter 3: Stoichiometry and Reactions
+Master the mole concept, chemical equations, and stoichiometric calculations. Learn about types of chemical reactions and how to predict products.
+
+Chapter 4: Thermodynamics and Kinetics
+Understand energy changes in reactions (enthalpy), spontaneity (entropy), and reaction rates. Explore factors affecting reaction speed and equilibrium.
+
+Chapter 5: Acid-Base Chemistry
+Study pH, buffers, and neutralization reactions. Learn about strong and weak acids and bases, and how to perform titrations.
+
+Chapter 6: Oxidation and Reduction
+Master oxidation states, redox reactions, and electrochemistry. Understand galvanic cells and electrolysis.
+
+Chapter 7: Organic Chemistry Basics
+Introduction to organic molecules, naming conventions, and functional groups. Explore alkanes, alkenes, and alkynes.
+
+Chapter 8: Solutions and Colligative Properties
+Study dissolution, solubility, and colligative properties. Learn about concentration units and how to calculate boiling point elevation and freezing point depression.
